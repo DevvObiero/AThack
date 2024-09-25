@@ -125,7 +125,7 @@ STATIC_URL = 'static/'
 CRISPY_TEMPLATE_PACK = 'bootstrap5'
 
 STATICFILES_DIRS = [
-    BASE_DIR / "static",
+    BASE_DIR / "staticfiles",
 ]
 
 
