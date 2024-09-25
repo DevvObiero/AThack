@@ -86,3 +86,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 For any questions, feedback, or suggestions, feel free to contact the project maintainers:
 
+Name: Your Name
+Email: your.email@example.com
+Website: Your Portfolio
+GitHub: your-username
